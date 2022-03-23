@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MoverMouse.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Polars.cs" Line="81" Column="31" />
+      <File FileName="Assets\Scripts\DrawVector2D.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Inversas.cs" Line="25" Column="18" />
+      <File FileName="Assets\Scripts\MoverMouse.cs" Line="40" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
